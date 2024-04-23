@@ -1,0 +1,2349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>http://localhost:4000/sfo-zoo</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sfo-zoo" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sfo-zoo" />
+    
+    <lastmod>2019-05-05T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/sfo-zoo</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sfo-zoo" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sfo-zoo" />
+    
+    <lastmod>2019-05-05T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/tahoe</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tahoe" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tahoe" />
+    
+    <lastmod>2019-05-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/tahoe</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tahoe" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tahoe" />
+    
+    <lastmod>2019-05-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/yosemite</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/yosemite" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/yosemite" />
+    
+    <lastmod>2019-04-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/yosemite</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/yosemite" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/yosemite" />
+    
+    <lastmod>2019-04-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/sfo-sequoia</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sfo-sequoia" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sfo-sequoia" />
+    
+    <lastmod>2019-04-26T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/sfo-sequoia</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sfo-sequoia" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sfo-sequoia" />
+    
+    <lastmod>2019-04-26T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fiji</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/fiji" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/fiji" />
+    
+    <lastmod>2018-10-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/fiji</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/fiji" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/fiji" />
+    
+    <lastmod>2018-10-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/shanghai-china</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/shanghai-china" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/shanghai-china" />
+    
+    <lastmod>2017-12-23T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/shanghai-china</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/shanghai-china" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/shanghai-china" />
+    
+    <lastmod>2017-12-23T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/san-francisco-ca</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/san-francisco-ca" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/san-francisco-ca" />
+    
+    <lastmod>2017-12-02T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/san-francisco-ca</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/san-francisco-ca" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/san-francisco-ca" />
+    
+    <lastmod>2017-12-02T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/seattle-washington</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/seattle-washington" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/seattle-washington" />
+    
+    <lastmod>2017-11-27T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/seattle-washington</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/seattle-washington" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/seattle-washington" />
+    
+    <lastmod>2017-11-27T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/denver-colorado</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/denver-colorado" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/denver-colorado" />
+    
+    <lastmod>2017-11-22T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/denver-colorado</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/denver-colorado" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/denver-colorado" />
+    
+    <lastmod>2017-11-22T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/austin-texas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/austin-texas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/austin-texas" />
+    
+    <lastmod>2017-11-20T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/austin-texas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/austin-texas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/austin-texas" />
+    
+    <lastmod>2017-11-20T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/nikko-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nikko-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nikko-japan" />
+    
+    <lastmod>2017-10-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/nikko-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nikko-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nikko-japan" />
+    
+    <lastmod>2017-10-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/kawaguchiko-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/kawaguchiko-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/kawaguchiko-japan" />
+    
+    <lastmod>2017-04-23T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/kawaguchiko-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/kawaguchiko-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/kawaguchiko-japan" />
+    
+    <lastmod>2017-04-23T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/odaiba-tokyo</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/odaiba-tokyo" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/odaiba-tokyo" />
+    
+    <lastmod>2017-04-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/odaiba-tokyo</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/odaiba-tokyo" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/odaiba-tokyo" />
+    
+    <lastmod>2017-04-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/tokyo-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tokyo-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tokyo-japan" />
+    
+    <lastmod>2017-04-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/tokyo-japan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tokyo-japan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tokyo-japan" />
+    
+    <lastmod>2017-04-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/new-delhi-india</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/new-delhi-india" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/new-delhi-india" />
+    
+    <lastmod>2017-03-13T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/new-delhi-india</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/new-delhi-india" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/new-delhi-india" />
+    
+    <lastmod>2017-03-13T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/kathmandu-nepal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/kathmandu-nepal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/kathmandu-nepal" />
+    
+    <lastmod>2017-03-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/kathmandu-nepal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/kathmandu-nepal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/kathmandu-nepal" />
+    
+    <lastmod>2017-03-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/taktsang-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/taktsang-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/taktsang-bhutan" />
+    
+    <lastmod>2017-02-28T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/taktsang-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/taktsang-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/taktsang-bhutan" />
+    
+    <lastmod>2017-02-28T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/paro-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/paro-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/paro-bhutan" />
+    
+    <lastmod>2017-02-27T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/paro-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/paro-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/paro-bhutan" />
+    
+    <lastmod>2017-02-27T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/punakha-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/punakha-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/punakha-bhutan" />
+    
+    <lastmod>2017-02-26T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/punakha-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/punakha-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/punakha-bhutan" />
+    
+    <lastmod>2017-02-26T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/cheri-monastery-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cheri-monastery-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cheri-monastery-bhutan" />
+    
+    <lastmod>2017-02-24T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/cheri-monastery-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cheri-monastery-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cheri-monastery-bhutan" />
+    
+    <lastmod>2017-02-24T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/thimphu-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/thimphu-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/thimphu-bhutan" />
+    
+    <lastmod>2017-02-23T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/thimphu-bhutan</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/thimphu-bhutan" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/thimphu-bhutan" />
+    
+    <lastmod>2017-02-23T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/ko-mai-thon-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ko-mai-thon-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/ko-mai-thon-thailand" />
+    
+    <lastmod>2017-02-19T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/ko-mai-thon-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ko-mai-thon-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/ko-mai-thon-thailand" />
+    
+    <lastmod>2017-02-19T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/phi-phi-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/phi-phi-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/phi-phi-thailand" />
+    
+    <lastmod>2017-02-09T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/phi-phi-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/phi-phi-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/phi-phi-thailand" />
+    
+    <lastmod>2017-02-09T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/phuket-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/phuket-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/phuket-thailand" />
+    
+    <lastmod>2017-02-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/phuket-thailand</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/phuket-thailand" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/phuket-thailand" />
+    
+    <lastmod>2017-02-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/copenhagen-denmark</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/copenhagen-denmark" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/copenhagen-denmark" />
+    
+    <lastmod>2016-12-25T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/copenhagen-denmark</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/copenhagen-denmark" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/copenhagen-denmark" />
+    
+    <lastmod>2016-12-25T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/tenerife-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tenerife-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tenerife-spain" />
+    
+    <lastmod>2016-11-30T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/tenerife-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/tenerife-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/tenerife-spain" />
+    
+    <lastmod>2016-11-30T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/warsaw-poland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/warsaw-poland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/warsaw-poland" />
+    
+    <lastmod>2016-09-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/warsaw-poland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/warsaw-poland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/warsaw-poland" />
+    
+    <lastmod>2016-09-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/munich-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/munich-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/munich-germany" />
+    
+    <lastmod>2016-08-14T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/munich-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/munich-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/munich-germany" />
+    
+    <lastmod>2016-08-14T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/salzburg-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/salzburg-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/salzburg-austria" />
+    
+    <lastmod>2016-08-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/salzburg-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/salzburg-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/salzburg-austria" />
+    
+    <lastmod>2016-08-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/vienna-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/vienna-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/vienna-austria" />
+    
+    <lastmod>2016-07-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/vienna-austria</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/vienna-austria" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/vienna-austria" />
+    
+    <lastmod>2016-07-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/budapest-hungary</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/budapest-hungary" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/budapest-hungary" />
+    
+    <lastmod>2016-07-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/budapest-hungary</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/budapest-hungary" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/budapest-hungary" />
+    
+    <lastmod>2016-07-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/cannes-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cannes-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cannes-france" />
+    
+    <lastmod>2016-05-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/cannes-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cannes-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cannes-france" />
+    
+    <lastmod>2016-05-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/monaco</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/monaco" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/monaco" />
+    
+    <lastmod>2016-05-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/monaco</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/monaco" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/monaco" />
+    
+    <lastmod>2016-05-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/nice-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nice-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nice-france" />
+    
+    <lastmod>2016-05-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/nice-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nice-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nice-france" />
+    
+    <lastmod>2016-05-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/garda-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/garda-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/garda-italy" />
+    
+    <lastmod>2016-05-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/garda-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/garda-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/garda-italy" />
+    
+    <lastmod>2016-05-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/dolomites-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/dolomites-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/dolomites-italy" />
+    
+    <lastmod>2016-05-06T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/dolomites-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/dolomites-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/dolomites-italy" />
+    
+    <lastmod>2016-05-06T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/venice-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/venice-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/venice-italy" />
+    
+    <lastmod>2016-05-04T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/venice-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/venice-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/venice-italy" />
+    
+    <lastmod>2016-05-04T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/florence-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/florence-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/florence-italy" />
+    
+    <lastmod>2016-05-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/florence-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/florence-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/florence-italy" />
+    
+    <lastmod>2016-05-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/rome-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/rome-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/rome-italy" />
+    
+    <lastmod>2016-05-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/rome-italy</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/rome-italy" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/rome-italy" />
+    
+    <lastmod>2016-05-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/valencia-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/valencia-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/valencia-spain" />
+    
+    <lastmod>2016-04-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/valencia-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/valencia-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/valencia-spain" />
+    
+    <lastmod>2016-04-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/porto-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/porto-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/porto-portugal" />
+    
+    <lastmod>2016-04-25T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/porto-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/porto-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/porto-portugal" />
+    
+    <lastmod>2016-04-25T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/portugal-beaches</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/portugal-beaches" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/portugal-beaches" />
+    
+    <lastmod>2016-04-24T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/portugal-beaches</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/portugal-beaches" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/portugal-beaches" />
+    
+    <lastmod>2016-04-24T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/sintra-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sintra-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sintra-portugal" />
+    
+    <lastmod>2016-04-23T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/sintra-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sintra-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sintra-portugal" />
+    
+    <lastmod>2016-04-23T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/lisbon-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/lisbon-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/lisbon-portugal" />
+    
+    <lastmod>2016-04-22T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/lisbon-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/lisbon-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/lisbon-portugal" />
+    
+    <lastmod>2016-04-22T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/cascais-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cascais-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cascais-portugal" />
+    
+    <lastmod>2016-04-21T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/cascais-portugal</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/cascais-portugal" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/cascais-portugal" />
+    
+    <lastmod>2016-04-21T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/menorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/menorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/menorca-spain" />
+    
+    <lastmod>2016-04-16T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/menorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/menorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/menorca-spain" />
+    
+    <lastmod>2016-04-16T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/montserrat-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/montserrat-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/montserrat-spain" />
+    
+    <lastmod>2016-04-12T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/montserrat-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/montserrat-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/montserrat-spain" />
+    
+    <lastmod>2016-04-12T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/sitges-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sitges-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sitges-spain" />
+    
+    <lastmod>2016-04-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/sitges-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/sitges-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/sitges-spain" />
+    
+    <lastmod>2016-04-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/barcelona-from-above</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-from-above" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-from-above" />
+    
+    <lastmod>2016-04-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/barcelona-from-above</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-from-above" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-from-above" />
+    
+    <lastmod>2016-04-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/granada-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/granada-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/granada-spain" />
+    
+    <lastmod>2016-04-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/granada-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/granada-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/granada-spain" />
+    
+    <lastmod>2016-04-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/nerja-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nerja-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nerja-spain" />
+    
+    <lastmod>2016-03-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/nerja-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/nerja-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/nerja-spain" />
+    
+    <lastmod>2016-03-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/benalmadena-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/benalmadena-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/benalmadena-spain" />
+    
+    <lastmod>2016-03-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/benalmadena-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/benalmadena-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/benalmadena-spain" />
+    
+    <lastmod>2016-03-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/xcaret-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/xcaret-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/xcaret-mexico" />
+    
+    <lastmod>2016-03-20T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/xcaret-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/xcaret-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/xcaret-mexico" />
+    
+    <lastmod>2016-03-20T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/grand-palladium-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/grand-palladium-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/grand-palladium-mexico" />
+    
+    <lastmod>2016-03-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/grand-palladium-mexico</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/grand-palladium-mexico" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/grand-palladium-mexico" />
+    
+    <lastmod>2016-03-01T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/prague-czech-republic</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/prague-czech-republic" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/prague-czech-republic" />
+    
+    <lastmod>2015-12-26T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/prague-czech-republic</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/prague-czech-republic" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/prague-czech-republic" />
+    
+    <lastmod>2015-12-26T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/seville-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/seville-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/seville-spain" />
+    
+    <lastmod>2015-03-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/seville-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/seville-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/seville-spain" />
+    
+    <lastmod>2015-03-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/zurich-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/zurich-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/zurich-switzerland" />
+    
+    <lastmod>2015-02-08T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/zurich-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/zurich-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/zurich-switzerland" />
+    
+    <lastmod>2015-02-08T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/liege-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/liege-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/liege-belgium" />
+    
+    <lastmod>2014-12-21T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/liege-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/liege-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/liege-belgium" />
+    
+    <lastmod>2014-12-21T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/barcelona-spain-2014</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-spain-2014" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-spain-2014" />
+    
+    <lastmod>2014-09-14T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/barcelona-spain-2014</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-spain-2014" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-spain-2014" />
+    
+    <lastmod>2014-09-14T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/paris-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/paris-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/paris-france" />
+    
+    <lastmod>2014-07-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/paris-france</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/paris-france" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/paris-france" />
+    
+    <lastmod>2014-07-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/brussels-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/brussels-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/brussels-belgium" />
+    
+    <lastmod>2014-06-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/brussels-belgium</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/brussels-belgium" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/brussels-belgium" />
+    
+    <lastmod>2014-06-08T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/blue-lagoon-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/blue-lagoon-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/blue-lagoon-turkey" />
+    
+    <lastmod>2014-05-18T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/blue-lagoon-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/blue-lagoon-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/blue-lagoon-turkey" />
+    
+    <lastmod>2014-05-18T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/madrid-spain-day-two</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/madrid-spain-day-two" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/madrid-spain-day-two" />
+    
+    <lastmod>2014-04-12T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/madrid-spain-day-two</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/madrid-spain-day-two" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/madrid-spain-day-two" />
+    
+    <lastmod>2014-04-12T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/madrid-spain-day-one</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/madrid-spain-day-one" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/madrid-spain-day-one" />
+    
+    <lastmod>2014-04-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/madrid-spain-day-one</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/madrid-spain-day-one" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/madrid-spain-day-one" />
+    
+    <lastmod>2014-04-11T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/duesseldorf-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/duesseldorf-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/duesseldorf-germany" />
+    
+    <lastmod>2014-03-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/duesseldorf-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/duesseldorf-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/duesseldorf-germany" />
+    
+    <lastmod>2014-03-30T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/apollo-dusseldorf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/apollo-dusseldorf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/apollo-dusseldorf" />
+    
+    <lastmod>2014-03-15T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/apollo-dusseldorf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/apollo-dusseldorf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/apollo-dusseldorf" />
+    
+    <lastmod>2014-03-15T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/amden-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/amden-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/amden-switzerland" />
+    
+    <lastmod>2014-03-03T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/amden-switzerland</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/amden-switzerland" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/amden-switzerland" />
+    
+    <lastmod>2014-03-03T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/bonn-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/bonn-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/bonn-germany" />
+    
+    <lastmod>2014-01-18T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/bonn-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/bonn-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/bonn-germany" />
+    
+    <lastmod>2014-01-18T07:00:00-05:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/amsterdam-netherlands</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/amsterdam-netherlands" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/amsterdam-netherlands" />
+    
+    <lastmod>2013-09-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/amsterdam-netherlands</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/amsterdam-netherlands" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/amsterdam-netherlands" />
+    
+    <lastmod>2013-09-28T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/palma-de-mallorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/palma-de-mallorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/palma-de-mallorca-spain" />
+    
+    <lastmod>2013-08-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/palma-de-mallorca-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/palma-de-mallorca-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/palma-de-mallorca-spain" />
+    
+    <lastmod>2013-08-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/marmaris-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/marmaris-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/marmaris-turkey" />
+    
+    <lastmod>2012-08-18T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/marmaris-turkey</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/marmaris-turkey" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/marmaris-turkey" />
+    
+    <lastmod>2012-08-18T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/immenstadt-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/immenstadt-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/immenstadt-germany" />
+    
+    <lastmod>2012-08-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/immenstadt-germany</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/immenstadt-germany" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/immenstadt-germany" />
+    
+    <lastmod>2012-08-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/dali-cadaques-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/dali-cadaques-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/dali-cadaques-spain" />
+    
+    <lastmod>2012-04-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/dali-cadaques-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/dali-cadaques-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/dali-cadaques-spain" />
+    
+    <lastmod>2012-04-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/barcelona-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-spain" />
+    
+    <lastmod>2012-04-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/barcelona-spain</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/barcelona-spain" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/barcelona-spain" />
+    
+    <lastmod>2012-04-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-los-angeles</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-los-angeles" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-los-angeles" />
+    
+    <lastmod>2009-09-16T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-los-angeles</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-los-angeles" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-los-angeles" />
+    
+    <lastmod>2009-09-16T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-las-vegas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-las-vegas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-las-vegas" />
+    
+    <lastmod>2009-09-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-las-vegas</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-las-vegas" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-las-vegas" />
+    
+    <lastmod>2009-09-10T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-grand-canyon</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-grand-canyon" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-grand-canyon" />
+    
+    <lastmod>2009-09-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-grand-canyon</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-grand-canyon" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-grand-canyon" />
+    
+    <lastmod>2009-09-09T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-yellowstone</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-yellowstone" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-yellowstone" />
+    
+    <lastmod>2009-09-05T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-yellowstone</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-yellowstone" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-yellowstone" />
+    
+    <lastmod>2009-09-05T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-seattle</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-seattle" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-seattle" />
+    
+    <lastmod>2009-09-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-seattle</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-seattle" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-seattle" />
+    
+    <lastmod>2009-09-03T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-st-helens</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-st-helens" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-st-helens" />
+    
+    <lastmod>2009-09-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-st-helens</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-st-helens" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-st-helens" />
+    
+    <lastmod>2009-09-02T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip-crater-lake</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-crater-lake" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-crater-lake" />
+    
+    <lastmod>2009-09-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip-crater-lake</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip-crater-lake" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip-crater-lake" />
+    
+    <lastmod>2009-09-01T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/road-trip</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip" />
+    
+    <lastmod>2009-08-31T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/road-trip</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/road-trip" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/road-trip" />
+    
+    <lastmod>2009-08-31T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/gay-pride-parade-sf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/gay-pride-parade-sf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/gay-pride-parade-sf" />
+    
+    <lastmod>2009-07-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/gay-pride-parade-sf</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/gay-pride-parade-sf" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/gay-pride-parade-sf" />
+    
+    <lastmod>2009-07-29T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/alkatraz</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/alkatraz" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/alkatraz" />
+    
+    <lastmod>2009-07-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/alkatraz</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/alkatraz" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/alkatraz" />
+    
+    <lastmod>2009-07-27T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/san-francisco-seals</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/san-francisco-seals" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/san-francisco-seals" />
+    
+    <lastmod>2009-07-15T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/san-francisco-seals</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/san-francisco-seals" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/san-francisco-seals" />
+    
+    <lastmod>2009-07-15T08:00:00-04:00</lastmod>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/404.html</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/404.html" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/feed.en.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/feed.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/feed.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/feed.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ru" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/ru</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ru" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/map</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/map" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/map</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/map" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/css/pixyll.css</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/404.html" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/feed.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ru" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/map" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/sitemap.xml" />
+    
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/sitemap.xml</loc>
+    
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/404.html" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/feed.en.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/feed.xml" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/ru" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/en/map" />
+    
+    <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:4000/map" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/css/pixyll.css" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="http://localhost:4000/sitemap.xml" />
+    
+  </url>
+  
+  
+</urlset>
