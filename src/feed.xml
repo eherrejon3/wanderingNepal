@@ -1,6 +1,0 @@
----
-layout: null
-ref: feed
-lang: ru
----
-{% include feed_content.xml %}

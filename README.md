@@ -1,5 +1,4 @@
-# ehPCRVNepal.com
-[![Build Status](https://travis-ci.org/ayastreb/11route.svg?branch=master)](https://travis-ci.org/ayastreb/11route)
+# wanderingNepal
 
 This is my travel blog. I write here about places I visit, to share with friends and family.
 
@@ -34,7 +33,7 @@ This is my travel blog. I write here about places I visit, to share with friends
     ```
     gem install liquid -v 4.0.3
     ```
-* Build local version of site:
+* [Build local version of site](https://jekyllrb.com/docs/):
     ```
     bundle exec jekyll serve
     ```

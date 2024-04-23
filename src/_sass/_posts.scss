@@ -51,6 +51,7 @@
     -webkit-box-shadow: 0px 2px 5px 0px rgba(50, 50, 50, 0.5);
     -moz-box-shadow: 0px 2px 5px 0px rgba(50, 50, 50, 0.5);
     box-shadow: 0px 2px 5px 0px rgba(50, 50, 50, 0.5);
+    border-radius: 50px;
   }
 
   .title {
@@ -135,11 +136,11 @@
 }
 
 .text-block {
-  width: 75%;
+  width: 100%;
   color: #464646;
   font-size: 1em;
   margin: 1em auto;
-  text-indent: 2.5em;
+  // text-indent: 2.5em;
   text-align: justify;
   font-weight: 300;
 }

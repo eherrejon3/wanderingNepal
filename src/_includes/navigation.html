@@ -5,22 +5,19 @@
   </li>
   {% if url contains '/map' %}
   <li class="inactive">
-    <a href="/">English</a>
-  </li>
-  <li class="inactive">
-    <a href="/ru">Русский</a>
+    <a href="/">Blog</a>
   </li>
   {% else %}
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for post in posts %}
     <li class="{% if url == post.url %}active{% else %}inactive{% endif %}">
-      <a href="{{ post.url }}">{{ site.languages[post.lang] }}</a>
+      <a href="{{ post.url }}">Blog</a>
     </li>
     {% endfor %}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
     {% for page in pages %}
     <li class="{% if url == page.url %}active{% else %}inactive{% endif %}">
-      <a href="{{ page.url }}">{{ site.languages[page.lang] }}</a>
+      <a href="{{ page.url }}">Blog</a>
     </li>
     {% endfor %}
   {% endif %}
