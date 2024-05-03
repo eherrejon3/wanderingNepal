@@ -179,10 +179,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Peace Corps Pre-Departure</title>
-      <description>&lt;div id=&quot;8c3d6584-137a-4bc8-a0ec-2f095276af0d&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;2fa27cc9-294b-4c91-ae1f-46bad3854618&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    '8c3d6584-137a-4bc8-a0ec-2f095276af0d',
+    '2fa27cc9-294b-4c91-ae1f-46bad3854618',
     [{&quot;latitude&quot;:33.753746,&quot;longitude&quot;:-84.38633,&quot;title&quot;:&quot;Peace Corps Pre-Departure&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/peace-corps-prep&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;../../images/blogImages/blog-1/09222018 _Nepal_0180.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:8}
   );
@@ -231,10 +231,10 @@ if (typeof Object.assign !== 'function') {
     
     <item>
       <title>Kathmandu, Nepal</title>
-      <description>&lt;div id=&quot;e64dd836-80c4-4002-a8fc-a019fce8e517&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
+      <description>&lt;div id=&quot;f47fb20e-f1f9-4f52-a9cd-b2e24146627e&quot; style=&quot;width:100%;height:468px;&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
   jekyllMaps.register(
-    'e64dd836-80c4-4002-a8fc-a019fce8e517',
+    'f47fb20e-f1f9-4f52-a9cd-b2e24146627e',
     [{&quot;latitude&quot;:27.7172177,&quot;longitude&quot;:85.3239781,&quot;title&quot;:&quot;Kathmandu, Nepal&quot;,&quot;icon&quot;:null,&quot;url&quot;:&quot;/en/kathmandu-nepal&quot;,&quot;url_text&quot;:null,&quot;image&quot;:&quot;https://content.11route.com/posts/2017/kathmandu-nepal/cover-2000.jpg&quot;,&quot;popup_html&quot;:&quot;&quot;}],
     {&quot;baseUrl&quot;:&quot;&quot;,&quot;useCluster&quot;:true,&quot;showMarker&quot;:true,&quot;showMarkerPopup&quot;:false,&quot;markerIcon&quot;:null,&quot;customZoom&quot;:8}
   );
